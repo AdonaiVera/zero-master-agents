@@ -228,4 +228,4 @@ For a comprehensive list of papers organized by topics (Introduction, Attention 
 
 ---
 
-<p align="right"><sub>Made it by ado</sub></p> 
+<p align="right"><sub>Made by ado</sub></p> 
