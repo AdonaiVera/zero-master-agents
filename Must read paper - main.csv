@@ -1,0 +1,38 @@
+Topic,Paper,Optional Reading
+Introduction,-,
+Attention & Transformers,Attention Is All You Need,
+Pretraining,Language Models are Few-Shot Learners,"Language Models are Unsupervised Multitask Learners,
+Scaling Laws for Neural Language Models,
+Generating Long Sequences with Sparse Transformers,
+An Empirical Model of Large-Batch Training"
+Scaling Laws,Training Compute-Optimal Large Language Models,"Scaling laws for neural language models, Quasi-Newton Matrices with Limited Storage"
+Instruction Tuning,Scaling Instruction-Finetuned Language Models,Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+,The Flan Collection: Designing Data and Methods for Effective Instruction Tuning,"Scaling Instruction-Finetuned Language Models, Finetuned Language Models Are Zero-Shot Learners
+"
+Prompting,Chain-of-Thought Prompting Elicits Reasoning in Large Language Models,Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+,Self-Consistency Improves Chain-of-Thought Reasoning in Language Models,"Universal Self-Consistency for Large Language Model Generation, Early-Stopping Self-Consistency for Multi-step Reasoning, Ask One More Time: Self-Agreement Improves Reasoning of Language Models"
+,ART: Automatic Multi-Step Reasoning and Tool-Use for Large Language Models,"TALM: Tool Augmented Language Models, LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models"
+,Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?,"Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations, Active Learning Principles for In-Context Learning
+with Large Language Models, Larger language models do in-context learning differently, Lost in the Middle: How Language Models Use Long Contexts"
+LLM Abilities,Emergent Abilities of Large Language Models,"A Latent Space Theory for Emergent Abilities in Large Language Models, Are Emergent Abilities in Large Language Models just In-Context Learning?"
+,Are Emergent Abilities of Large Language Models a Mirage?,"Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models, Predicting Emergent Capabilities by Finetuning, Training on the Test Task Confounds Evaluation and Emergence, State of What Art? A Call for Multi-Prompt LLM Evaluation"
+,Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers,ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models
+,Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement,"Large Language Models can Learn Rules, Context-Aware Testing: A New Paradigm for Model Testing with Large Language Models"
+Alignment and Agent,Training Language Models to Follow Instructions with Human Feedback,"Aligning Language Models with Self-Generated Instruction, Direct Preference Optimization: Your Language Model is Secretly a Reward Model, LIMA: Less Is More for Alignment"
+,Toolformer: Language Models Can Teach Themselves to Use Tools,"PAL: Program-aided Language Models, Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models, Gorilla: Large Language Model Connected with Massive APIs, ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs"
+MoE,Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity,Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer
+,GLaM: Efficient Scaling of Language Models with Mixture-of-Experts,"FairMOE: counterfactually‑fair mixture of experts with levels, XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts of interpretability"
+Spring Break,-,
+,-,
+RAG,Improving Language Models by Retrieving from Trillions of Tokens,"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, In-Context Retrieval-Augmented Language Models, Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering"
+RL,DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning,"DeepSeek-V3 Technical Report, DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model"
+Multimodal,Learning Transferable Visual Models From Natural Language Supervision (CLIP),"CLIPScore: A Reference-free Evaluation Metric for Image Captioning, VideoCLIP: Contrastive Pre-training for
+Zero-shot Video-Text Understanding, CoCa: Contrastive Captioners are Image-Text Foundation Models, Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm"
+,Improved Baselines with Visual Instruction Tuning (LLaVA),"To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning, VILA: On Pre-training for Visual Language Models, NVILA: Efficient Frontier Visual Language Models"
+Senior Design Day,-,
+Distillation,TinyBERT: Distilling BERT for Natural Language Understanding,"ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
+, MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers, MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices"
+No Class,-,
+Long Context,A Controlled Study on Long Context Extension and Generalization in LLMs,"What is Wrong with Perplexity for Long-context Language Modeling?, From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models"
+,Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention,"InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory, Chain of Agents: Large Language Models Collaborating on Long-Context Tasks"
+Fact Checking,SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models,LLM-Check: Investigating Detection of Hallucinations in Large Language Models
