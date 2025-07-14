@@ -33,6 +33,44 @@ The roadmap includes:
 
 Before building agents, make sure you understand these concepts:
 
+
+## Platzi Pathway (EN)
+
+### Core Concepts: Python
+- [Python Course](https://platzi.com/cursos/python/)
+
+### Machine Learning & Deep Learning
+- [AI and Machine Learning Course](https://platzi.com/cursos/ia-data-ml/)
+- [Scikit-Learn Course](https://platzi.com/cursos/scikitlearn/)
+- [Convolutional Neural Networks Course](https://platzi.com/cursos/redes-neuronales-convolucionales-2021/)
+- [PyTorch Course](https://platzi.com/cursos/pytorch/)
+- [Deep Learning Course](https://platzi.com/cursos/deeplearning/)
+- [MLOps Course](https://platzi.com/cursos/mlops/)
+
+### Agents & AI
+- [ChatGPT Course](https://platzi.com/cursos/chatgpt/)
+- [Claude Course](https://platzi.com/cursos/claude/)
+- [Prompt Engineering Course](https://platzi.com/cursos/prompt-engineering/)
+- [OpenAI API Course (2023)](https://platzi.com/cursos/openai-api-23/)
+- [OpenAI API Course](https://platzi.com/cursos/openai-api/)
+- [LangChain: Chatbots Course](https://platzi.com/cursos/langchain-chatbots/)
+- [LangChain: Documents Course](https://platzi.com/cursos/langchain-documents/)
+- [AI Agents Course](https://platzi.com/cursos/agentes-ai/)
+- [AI Observability Course](https://platzi.com/cursos/observabilidad-ai/)
+- [WhatsApp API Course](https://platzi.com/cursos/whatsapp-api/)
+
+### Optional
+- [Algebra for Machine Learning Course](https://platzi.com/cursos/algebra-ml/)
+- [Linear Regression Course](https://platzi.com/cursos/regresion-lineal/)
+- [Logistic Regression Course](https://platzi.com/cursos/regresion-logistica/)
+- [Machine Learning Trees Course](https://platzi.com/cursos/arboles-machine-learning/)
+- [Clustering Course](https://platzi.com/cursos/clustering/)
+- [TensorFlow Neural Networks Course](https://platzi.com/cursos/redes-neuronales-tensorflow/)
+- [Transfer Learning Course](https://platzi.com/cursos/transfer-learning/)
+- [Machine Learning Demos Course](https://platzi.com/cursos/demos-machine-learning/)
+
+
+
 ### 🐍 **Advanced Python**
 - **Syntax, classes, APIs, JSON**
   - [Python for Beginners - CS50](https://www.youtube.com/watch?v=8ext9G7xspg)

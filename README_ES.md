@@ -35,6 +35,41 @@ La ruta incluye:
 ✅ Familiarizarse con papers relevantes y tendencias recientes
 
 
+## Ruta en Platzi
+
+### Conceptos Fundamentales: Python
+- [Curso de Python](https://platzi.com/cursos/python/)
+- [Curso de Python y ciencia de datos](https://platzi.com/cursos/python-data-science/)
+
+### Machine Learning & Deep Learning
+- [Curso de Inteligencia Artificial y Machine Learning](https://platzi.com/cursos/ia-data-ml/)
+- [Curso de Scikit-Learn](https://platzi.com/cursos/scikitlearn/)
+- [Curso de Redes Neuronales Convolucionales](https://platzi.com/cursos/redes-neuronales-convolucionales-2021/)
+- [Curso de PyTorch](https://platzi.com/cursos/pytorch/)
+- [Curso de Deep Learning](https://platzi.com/cursos/deeplearning/)
+- [Curso de MLOps](https://platzi.com/cursos/mlops/)
+
+### Agentes y AI
+- [Curso de ChatGPT](https://platzi.com/cursos/chatgpt/)
+- [Curso de Claude](https://platzi.com/cursos/claude/)
+- [Curso de Prompt Engineering](https://platzi.com/cursos/prompt-engineering/)
+- [Curso de OpenAI API (2023)](https://platzi.com/cursos/openai-api-23/)
+- [Curso de OpenAI API](https://platzi.com/cursos/openai-api/)
+- [Curso de LangChain: Chatbots](https://platzi.com/cursos/langchain-chatbots/)
+- [Curso de LangChain: Documentos](https://platzi.com/cursos/langchain-documents/)
+- [Curso de Agentes de AI](https://platzi.com/cursos/agentes-ai/)
+- [Curso de Observabilidad en AI](https://platzi.com/cursos/observabilidad-ai/)
+- [Curso de WhatsApp API](https://platzi.com/cursos/whatsapp-api/)
+
+### Opcionales
+- [Curso de Álgebra para Machine Learning](https://platzi.com/cursos/algebra-ml/)
+- [Curso de Regresión Lineal](https://platzi.com/cursos/regresion-lineal/)
+- [Curso de Regresión Logística](https://platzi.com/cursos/regresion-logistica/)
+- [Curso de Árboles en Machine Learning](https://platzi.com/cursos/arboles-machine-learning/)
+- [Curso de Clustering](https://platzi.com/cursos/clustering/)
+- [Curso de Redes Neuronales con TensorFlow](https://platzi.com/cursos/redes-neuronales-tensorflow/)
+- [Curso de Transfer Learning](https://platzi.com/cursos/transfer-learning/)
+- [Curso de Demos de Machine Learning](https://platzi.com/cursos/demos-machine-learning/)
 
 ## 🧩 Conceptos Fundamentales
 
