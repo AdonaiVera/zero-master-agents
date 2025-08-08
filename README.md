@@ -1,4 +1,4 @@
-# Learning Roadmap: From Zero to Expert in AI Agents
+# Learning Roadmap: From Zero to “Yeah, I Kinda Know AI”
 
 This repository contains a comprehensive study plan for programmers who want to get started in **AI Agents**, including fundamentals of Artificial Intelligence, prompting techniques and Chain of Thought (CoT), agent construction, and integration of modern tools.
 
